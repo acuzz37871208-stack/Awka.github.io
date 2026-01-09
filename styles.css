@@ -1,0 +1,23 @@
+.h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 24px;
+}
+.h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: rgb(102, 102, 102);
+    font-size: 18px;
+}
